@@ -1,4 +1,4 @@
 minetest-mobs
 =============
 
-many friendly quality mobs
+many friendly quality mobs for minetest
